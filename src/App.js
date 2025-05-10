@@ -1,11 +1,15 @@
 import React from 'react';
-import { Route, Switch} from 'react-router-dom';
+import Navbar from './components/navbar';
+import './App.css';
+import Searchbar from './components/searchbar/Searchbar';
 
 function App() {
-  return (
-    <Switch>
-
-    </Switch>
+  return(
+    <div>
+      <Navbar />
+      <Searchbar />
+      <div className='App'></div>
+    </div>
   );
 }
 

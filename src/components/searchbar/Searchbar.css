@@ -1,0 +1,22 @@
+.searchbar-container {
+    display: flex;
+    margin: 0 auto;
+    padding: 0 3%;
+    align-items: center;
+}
+
+.searchbar {
+    margin-right: 2%;
+}
+
+.searchbar input{
+    padding: 5%;
+    box-shadow: 0rem 0rem 1rem black;
+    border: none;
+    border-radius: 1rem;
+}
+
+.searchbar input:focus{
+    border: none;
+    border-radius: 2rem;
+}
