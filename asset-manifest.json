@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Pokedex/static/css/main.325d947b.css",
+    "main.js": "/Pokedex/static/js/main.3d6d2a88.js",
+    "static/js/453.5b9a2ad0.chunk.js": "/Pokedex/static/js/453.5b9a2ad0.chunk.js",
+    "static/media/psychic_background.jpg": "/Pokedex/static/media/psychic_background.bbf7667580c6beb9f53d.jpg",
+    "static/media/rock_background.jpg": "/Pokedex/static/media/rock_background.702a7fb7cf1ddb881ff0.jpg",
+    "static/media/water_background.jpg": "/Pokedex/static/media/water_background.d8ad3eda7071bc0202d8.jpg",
+    "static/media/grass_background.jpg": "/Pokedex/static/media/grass_background.1e2bb55dedc3a3c59da1.jpg",
+    "static/media/ground_background.jpg": "/Pokedex/static/media/ground_background.ee011c1cd99168ef2c1b.jpg",
+    "static/media/poison_background.jpg": "/Pokedex/static/media/poison_background.bd3efa4b47ab11d7be69.jpg",
+    "static/media/fire_background.jpg": "/Pokedex/static/media/fire_background.94d82de8be058ea5da01.jpg",
+    "static/media/pokeapi_logo.png": "/Pokedex/static/media/pokeapi_logo.888baca4809420be1126.png",
+    "static/media/fighting_background.jpg": "/Pokedex/static/media/fighting_background.ccf69708b84e775f6c70.jpg",
+    "static/media/fairy_background.jpg": "/Pokedex/static/media/fairy_background.eaca43cf286bee574ebd.jpg",
+    "static/media/electric_background.jpg": "/Pokedex/static/media/electric_background.0a4b3a74f7c1d336c325.jpg",
+    "index.html": "/Pokedex/index.html",
+    "main.325d947b.css.map": "/Pokedex/static/css/main.325d947b.css.map",
+    "main.3d6d2a88.js.map": "/Pokedex/static/js/main.3d6d2a88.js.map",
+    "453.5b9a2ad0.chunk.js.map": "/Pokedex/static/js/453.5b9a2ad0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.325d947b.css",
+    "static/js/main.3d6d2a88.js"
+  ]
+}
