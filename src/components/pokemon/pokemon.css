@@ -4,12 +4,103 @@
     align-items: center;
 }
 
-.pokemon-image-container {
-    padding: 0 2%;
+.pokemon-card.fire {
+    background-image: url('../../assets/fire_background.jpg');
+    border-radius: 8px;
+    color: white;
 }
 
-.pokemon-card-body {
-    
+.pokemon-card.grass {
+    background-image: url('../../assets/grass_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+}
+
+.pokemon-card.water {
+    background-image: url('../../assets/water_background.jpg');
+    border-radius: 8px;
+}
+
+.pokemon-card.bug {
+    background-image: url('../../assets/grass_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+}
+
+.pokemon-card.normal {
+    background-image: url('../../assets/ground_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    color: white;
+}
+
+.pokemon-card.poison {
+    background-image: url('../../assets/poison_background.jpg');
+    border-radius: 8px;
+    color: white;
+}
+
+.pokemon-card.electric {
+    background-image: url('../../assets/electric_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    color: white;
+}
+
+.pokemon-card.rock {
+    background-image: url('../../assets/rock_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    color: white;
+}
+
+.pokemon-card.fighting {
+    background-image: url('../../assets/fighting_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    color: white;
+}
+
+.pokemon-card.ground {
+    background-image: url('../../assets/rock_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    color: white;
+}
+
+.pokemon-card.fairy {
+    background-image: url('../../assets/fairy_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    color: white;
+}
+
+.pokemon-card.psychic {
+    background-image: url('../../assets/psychic_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    color: white;
+}
+
+.pokemon-card.ghost {
+    background-image: url('../../assets/psychic_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    color: white;
+}
+
+.pokemon-image-container {
+    padding: 0 2%;
 }
 
 .pokemon-card-body {

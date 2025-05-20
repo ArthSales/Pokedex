@@ -27,3 +27,10 @@ nav {
     width: 110%;
 }
 
+
+.not-found-text-container{
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+    padding: 20px;
+}
